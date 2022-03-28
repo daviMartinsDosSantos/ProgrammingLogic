@@ -3,7 +3,7 @@ package challenge;
 import javax.swing.*;
 import java.util.Random;
 
-public class TriplaDePitágoras {
+public class TriplaDePitagoras {
 
     public static void main(String[] args) {
         Random rand = new Random();
